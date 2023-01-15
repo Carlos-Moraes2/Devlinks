@@ -20,7 +20,6 @@ body * {
 }
 #container {
   width: 360px;
-  border: 1px solid red;
   margin: auto;
   margin-top: 56px auto 0px;
 }
@@ -38,4 +37,13 @@ width: 112px;
   font-weight: 500;
   line-height: 24px;
   margin-top: 8px;
+}
+
+/* links */
+ul {
+  list-style: none;
+}
+
+ul {
+  border: 1px solid red;
 }
