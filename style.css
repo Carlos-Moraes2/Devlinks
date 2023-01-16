@@ -20,8 +20,8 @@ body * {
 }
 #container {
   width: 360px;
-  margin: auto;
-  margin-top: 56px auto 0px;
+  margin: 56px auto 0px;
+  padding: 0 24px;
 }
 
 #profile {
@@ -48,7 +48,6 @@ ul {
 }
 
 ul li a {
-
   display: flex;
   align-items: center;
   justify-content: center;
