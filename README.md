@@ -13,9 +13,8 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github.preview.jpg" width="100%">
-</p>
+
+![preview](https://user-images.githubusercontent.com/113129034/213609330-3753834b-3ade-4767-8725-4faefc738ca8.jpg)
 
 ## 🚀 Tecnologias
 
