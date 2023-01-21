@@ -13,9 +13,8 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github.preview.jpg" width="100%">
-</p>
+
+![preview](https://user-images.githubusercontent.com/113129034/213609330-3753834b-3ade-4767-8725-4faefc738ca8.jpg)
 
 ## 🚀 Tecnologias
 
@@ -40,7 +39,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
----
-
-[Este projeto foi feito por](https://github.com/Carlos-Moraes2)@carlosmoraes inspirado pela Rocketseat.
+[Este projeto foi feito por](https://github.com/Carlos-Moraes2)inspirado pela Rocketseat.
  
