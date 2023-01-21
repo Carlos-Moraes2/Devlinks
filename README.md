@@ -42,5 +42,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-[Este projeto foi feito por](https://github.com/Carlos-Moraes2) inspirado pela Rocketseat.
+[Este projeto foi feito por](https://github.com/Carlos-Moraes2)@carlosmoraes inspirado pela Rocketseat.
  
