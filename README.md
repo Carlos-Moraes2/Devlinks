@@ -39,5 +39,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
-[Este projeto foi feito por](https://github.com/Carlos-Moraes2)inspirado pela Rocketseat.
+[Este projeto foi feito por Carlos Moraes ](https://github.com/Carlos-Moraes2)inspirado pela Rocketseat.
  
